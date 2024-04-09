@@ -10,7 +10,7 @@ por:
 
 <img src="https://github.com/gh-johnny/iot-light-levels-arduino/blob/main/docs/assets/tinkercad-arduino-circuit-printscreen.png?raw=true" alt="print do circuito Arduino/printscreen Arduino circuit"/> 
 
-Link da simulação no <a href=" https://www.tinkercad.com/things/59KuVGgGDhh-glorious-allis-wolt/editel?sharecode=39sw8oEFMq6_Gm3jGtfpTENYOuERSUefURVV_2nzQSM">Tinkercad</a>
+Link da simulação no <a href="https://www.tinkercad.com/things/59KuVGgGDhh-glorious-allis-wolt/editel?sharecode=39sw8oEFMq6_Gm3jGtfpTENYOuERSUefURVV_2nzQSM">Tinkercad</a>
 <br />
 <br />
 🇧🇷 - Um programa que mede o nível de luminosidade através de um LDR (Light Dependent Resistor). Esses níveis de luz são visualizados através dos LEDs sendo: 
